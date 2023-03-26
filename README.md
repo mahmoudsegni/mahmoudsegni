@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=mahmoudsegni&color=blue)
 ###
 
-I currently work at Happiness AI  as a **Machine Learning Engineer part-time 🏦** and at Agence des monts as a **Python developer
+I currently work at Happiness AI  as a **Machine Learning Engineer part-time 🏦** and at Agence des monts as a **Python developer**
 
 <!-- More information about my work experience and background you can see here: [CV](resources/OlgaBystrovaCV.pdf) -->
 
