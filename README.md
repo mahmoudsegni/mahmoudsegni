@@ -12,7 +12,7 @@ I currently work at Happiness AI  as a **Machine Learning Engineer part-time üè
 
 ### Projects üêæ
 - [Speech emotion recognition Flask](https://github.com/mahmoudsegni/Flask-API-for-Audio-emotion-recognition) - Flask API for the audio emotion recognition.
-<!-- - [Fake News Detector / Text GANs](https://github.com/ovbystrova/hse_diploma_bc) - exploration of text GANs in fake news domain -->
+- [Speech Emotion recognition From Audio](https://github.com/mahmoudsegni/Speech-emotion-recognition-training) - Audio features extraction, experiments and model selction, model training and validation
 
 ###  
 ![Mahmoud](https://github-readme-stats.vercel.app/api?username=mahmoudsegni&show_icons=true&theme=dark)
