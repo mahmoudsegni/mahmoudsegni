@@ -1,6 +1,6 @@
 ### Hi there, i'm Mahmoud Segni ğŸ‘‹
 
-[![Linkedin: Mahmoud Segni](https://img.shields.io/badge/-Olga%20Bystrova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ovbystrova/)](https://www.linkedin.com/in/segni-mahmoud/)
+[![Linkedin: Mahmoud Segni](https://img.shields.io/badge/-Mahmoud%20Segni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ovbystrova/)](https://www.linkedin.com/in/segni-mahmoud/)
 
 
 ![](https://komarev.com/ghpvc/?username=mahmoudsegni&color=blue)
@@ -15,7 +15,7 @@ I currently work at Happiness AI  as a **Machine Learning Engineer part-time ğŸ
 <!-- - [Fake News Detector / Text GANs](https://github.com/ovbystrova/hse_diploma_bc) - exploration of text GANs in fake news domain -->
 
 ###  
-![Mahmoud(https://github-readme-stats.vercel.app/api?username=mahmoudsegni&show_icons=true&theme=dark)
+![Mahmoud](https://github-readme-stats.vercel.app/api?username=mahmoudsegni&show_icons=true&theme=dark)
 
 
 <!-- ### Recent Activity
