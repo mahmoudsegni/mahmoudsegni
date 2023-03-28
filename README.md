@@ -15,11 +15,4 @@ I currently work at Happiness AI  as a **Machine Learning Engineer part-time �
 - [Speech Emotion recognition From Audio](https://github.com/mahmoudsegni/Speech-emotion-recognition-training) - Audio features extraction, experiments and model selction, model training and validation
 
 ###  
-![Mahmoud](https://github-readme-stats.vercel.app/api?username=mahmoudsegni&show_icons=true&theme=dark)
-
-
-<!-- ### Recent Activity
-<!--START_SECTION:activity-->
-<!-- 1. ❗️ Opened issue [#2](https://github.com/ovbystrova/InstructionNER/issues/2) in [ovbystrova/InstructionNER](https://github.com/ovbystrova/InstructionNER)
-<!--END_SECTION:activity-->
-![](https://hit.yhype.me/github/profile?user_id=31935102) -->
+![Mahmoud](https://github-readme-stats.vercel.app/api?username=mahmoudsegni&show_icons=true&theme=merko)
