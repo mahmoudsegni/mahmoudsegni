@@ -8,7 +8,7 @@
 
 I currently work at Happiness AI  as a **Machine Learning Engineer part-time 🏦** and at Agence des monts as a **Python developer**
 
-<!-- More information about my work experience and background you can see here: [CV](resources/OlgaBystrovaCV.pdf) -->
+
 
 ### Projects 🐾
 - [Speech emotion recognition Flask](https://github.com/mahmoudsegni/Flask-API-for-Audio-emotion-recognition) - Flask API for the audio emotion recognition.
