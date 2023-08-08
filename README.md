@@ -16,7 +16,7 @@
 
 ###
 
-I currently work at Happiness AI  as a **Machine Learning Engineer part-time 🏦** and at Agence des monts as a **Python developer**
+I currently work at Happiness AI  as a **Machine Learning Engineer part-time 🏦** and at O2 france as a **AI Engineer** I develop technolgie around Chat GPT
 
 
 
